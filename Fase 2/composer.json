@@ -1,5 +1,0 @@
-{
-    "require": {
-        "transbank/transbank-sdk": "~4.0"
-    }
-}
