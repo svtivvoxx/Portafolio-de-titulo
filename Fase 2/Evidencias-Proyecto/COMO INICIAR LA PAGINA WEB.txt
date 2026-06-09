@@ -1,0 +1,5 @@
+COMO INICIAR LA PAGINA WEB:
+
+1. INICIAR XAMPP (MYSQL Y APACHE)
+2. COLOCAR EN LA BARRA BUSCADORA DEL NAVEGADOR: http://localhost/panaderia/Index.php
+3.Navegar por la pagina y hacer las compras que se requieran
